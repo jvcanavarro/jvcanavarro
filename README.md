@@ -6,8 +6,10 @@
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis / recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
 </li>
 
+
 #### Playing Now
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
+
 
 ### Overview
 <p align="center">
@@ -17,8 +19,10 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 
 #### Get in Touch
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:jvcanavarro@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-success?style=flat-square&logo=Spotify&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:jvcanavarro@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jvcanavarro)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-success?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jvcanavarro)](https://open.spotify.com/user/jvcanavarro)
+[![Steam Badge](https://img.shields.io/badge/-Steam-lightgrey?style=flat-square&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/octjinn/)](https://steamcommunity.com/id/octjinn/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jvcanavarro)
