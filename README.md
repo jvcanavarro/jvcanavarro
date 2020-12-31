@@ -9,9 +9,9 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 
 ### Stats
-<p align="start">
-<img align="start" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21" alt="Cana's Github Stats" />
-<img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21" alt="Cana's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact" />
 </p>
 
 
