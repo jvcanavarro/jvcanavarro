@@ -10,13 +10,13 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 ### Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=vue" alt="Cana's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=vue&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=default&hide_border=true" alt="Cana's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook&langs_count=10" />
 </p>
 
 
 #### Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:defcon.sentinal95@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:jvcanavarro@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jvcanavarro)
