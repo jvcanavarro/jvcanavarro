@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:name?theme=rule34"></a>
-  <img src="https://i.pinimg.com/originals/37/bb/12/37bb12dc18a82af3c2278844fcbfb967.gif" align="right" height = "150">
+  <img src="https://i.pinimg.com/originals/37/bb/12/37bb12dc18a82af3c2278844fcbfb967.gif" align="right" height = "120">
 </p>
 
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
@@ -9,7 +9,7 @@
 
 
 ### Bio 
-<img src="https://pa1.narvii.com/6368/83a9c19983ee6fcd8ece4c235271412d9a86986f_hq.gif" align="right" width="330" height="230">
+<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" width="330" height="230">
 <li>
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis / recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
 </li>
