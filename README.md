@@ -1,4 +1,7 @@
-<img src="https://coverfiles.alphacoders.com/140/thumb-1920-140160.png" align="center">
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:name?theme=rule34"></a>
+  <img src="https://i.pinimg.com/originals/37/bb/12/37bb12dc18a82af3c2278844fcbfb967.gif" align="right" height = "150">
+</p>
 
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
