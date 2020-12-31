@@ -4,15 +4,15 @@
 <img src="https://pa1.narvii.com/6482/6d3481e69b4806972d669f17bed79e29fe0d6e34_hq.gif" align="right" width="330" height="230">
 <li>
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis / recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
-  </li>
+</li>
 
 #### Playing Now
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
 
 ### Overview
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=default&hide_border=true" alt="Cana's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=vue&hide_border=true" alt="Cana's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=vue&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook&langs_count=10" />
 </p>
 
 
