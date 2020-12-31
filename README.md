@@ -1,5 +1,9 @@
+<img src="https://coverfiles.alphacoders.com/140/thumb-1920-140160.png" align="center">
+
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
+
+
 
 ### Bio 
 <img src="https://pa1.narvii.com/6482/6d3481e69b4806972d669f17bed79e29fe0d6e34_hq.gif" align="right" width="330" height="230">
@@ -24,6 +28,6 @@ I am a CS undergraduate student and research fellow at the Federal University of
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:jvcanavarro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jvcanavarro)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-success?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jvcanavarro)](https://open.spotify.com/user/jvcanavarro)
-[![Steam Badge](https://img.shields.io/badge/-Steam-lightgrey?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/octjinn/)](https://steamcommunity.com/id/octjinn/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/jvcanavarro)
+[![Steam Badge](https://img.shields.io/badge/-Steam-lightgrey?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/octjinn/)](https://steamcommunity.com/id/octjinn/)
 
