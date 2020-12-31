@@ -14,9 +14,10 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 #### Playing Now
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro) 
--->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&redirect=true)
+-->
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
 
 ### Overview
 <p align="center">
