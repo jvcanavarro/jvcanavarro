@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:name?theme=rule34"></a>
-  <img src="https://i.pinimg.com/originals/37/bb/12/37bb12dc18a82af3c2278844fcbfb967.gif" align="right" height = "120">
+  <img src="https://data.whicdn.com/images/188174384/original.gif" align="right" height = "120">
 </p>
 
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
