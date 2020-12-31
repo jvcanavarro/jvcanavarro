@@ -1,9 +1,9 @@
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
 
 ### Bio 
-<img src="https://pa1.narvii.com/6482/6d3481e69b4806972d669f17bed79e29fe0d6e34_hq.gif" align="right" width="250" height="140">
+<img src="https://pa1.narvii.com/6482/6d3481e69b4806972d669f17bed79e29fe0d6e34_hq.gif" align="right" width="230" height="130">
 <li>
-I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis / recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in the sections below. 
+I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis / recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
   </li>
 
 
