@@ -36,6 +36,6 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:name?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@index?theme=rule34"></a>
   <img src="https://data.whicdn.com/images/188174384/original.gif" align="right" height = "100">
 </p>
