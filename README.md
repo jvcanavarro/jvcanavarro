@@ -26,9 +26,79 @@ I am a CS undergraduate student and research fellow at the Federal University of
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 12 Contributions in the Year 2021
+ > 
+> 📦 554.0 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 10 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    54 commits     █████░░░░░░░░░░░░░░░░░░░░   23.48% 
+🌆 Daytime    103 commits    ███████████░░░░░░░░░░░░░░   44.78% 
+🌃 Evening    73 commits     ████████░░░░░░░░░░░░░░░░░   31.74% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
 ```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+Tuesday      44 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.13% 
+Wednesday    50 commits     █████░░░░░░░░░░░░░░░░░░░░   21.74% 
+Thursday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
+Sunday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Belem
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/jvcanavarro/jvcanavarro/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 #### Get in Touch
