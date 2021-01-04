@@ -26,20 +26,6 @@ I am a CS undergraduate student and research fellow at the Federal University of
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 12 Contributions in the Year 2021
- > 
-> 📦 554.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -66,8 +52,6 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Belem
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -77,26 +61,7 @@ No Activity Tracked This Week
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-PostScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/jvcanavarro/jvcanavarro/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
