@@ -26,6 +26,9 @@ I am a CS undergraduate student and research fellow at the Federal University of
 </p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Get in Touch
