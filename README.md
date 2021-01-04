@@ -25,6 +25,8 @@ I am a CS undergraduate student and research fellow at the Federal University of
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook,Lua&langs_count=10" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
