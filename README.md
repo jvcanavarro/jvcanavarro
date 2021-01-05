@@ -17,7 +17,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 
 
-<details>
+<br><details>
   <br><summary><b>Favorite Songs</b></summary>
   
 <!--   <img src="/playlist.png" align="right" width="250" height="70"> -->
