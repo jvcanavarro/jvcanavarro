@@ -1,28 +1,29 @@
-
-
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
 
-
-
 ### Bio 
-<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" width="330" height="230">
+<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" height="190">
 <li>
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
 </li>
 
-
-##### Playing Now
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro) 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&redirect=true)
 -->
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro) -->
 
 <details>
   <br><summary><b>Favorite Songs</b></summary>
+  
 <!--   <img src="/playlist.png" align="right" width="250" height="70"> -->
 <!--   <img src="https://images6.fanpop.com/image/photos/38500000/Yui-Hirasawa-k-on-38512307-500-281.gif" align="right" width="250" height="100"> -->
+
+  <a
+    href = "https://open.spotify.com/user/jvcanavarro">
+    <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" align="right" width="350">
+  </a>
+  
   <ol>
     <li>
       <a href="https://open.spotify.com/track/4aTXBrfZCq46Si5xiJHA6H?si=TmXfL7HSSAiI-V1U5TZYJg">組曲「義経」~悪忌判官</a> by ONMYO-ZA.
