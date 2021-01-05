@@ -13,8 +13,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" height="100" />](https://open.spotify.com/user/jvcanavarro) -->
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<!-- <p>&nbsp;</p> -->
 
 You can find my finished and in-development projects here or at my [Gitlab](http://https://gitlab.com/jvcanavarro), I’m always looking for people to work with!
 
