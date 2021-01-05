@@ -20,13 +20,10 @@ I am a CS undergraduate student and research fellow at the Federal University of
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
 
 ### Overview
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=default&hide_border=true" alt="Cana's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook,Lua&langs_count=10" />
-</p>
+
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early** 
 
 ```text
 🌞 Morning    54 commits     █████░░░░░░░░░░░░░░░░░░░░   23.48% 
@@ -35,7 +32,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+**I'm Most Productive on Wednesday** 
 
 ```text
 Monday       48 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
@@ -65,6 +62,14 @@ No Activity Tracked This Week
 
 
 <!--END_SECTION:waka-->
+
+<details>
+  <summary><b>More Github Stats</b></summary>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=default&hide_border=true" alt="Cana's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook,Lua&langs_count=10" />
+</p>
+</details>
 
 #### Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
