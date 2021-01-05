@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
 
 ### Bio 
-<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" height="180">
+<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" height="170">
 <li>
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
 </li>
@@ -11,13 +11,13 @@ I am a CS undergraduate student and research fellow at the Federal University of
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&redirect=true)
 -->
 #### Playing Now
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" height="100" />](https://open.spotify.com/user/jvcanavarro)
 
 <details>
   <br><summary><b>Favorite Songs</b></summary>
   
 <!--   <img src="/playlist.png" align="right" width="250" height="70"> -->
-  <img src="https://images6.fanpop.com/image/photos/38500000/Yui-Hirasawa-k-on-38512307-500-281.gif" align="right" width="250" height="100">
+<!--   <img src="https://images6.fanpop.com/image/photos/38500000/Yui-Hirasawa-k-on-38512307-500-281.gif" align="right" width="250" height="100"> -->
 
 <!--  <a href = "https://open.spotify.com/user/jvcanavarro">
     <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" align="right" width="350">
@@ -46,6 +46,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
       <a href="https://open.spotify.com/track/2fOHzYoJPPnuyxsdYBOf8H?si=HEEz_cweRHmf7Vt2Wmxc_A">Through Your Optic</a> by UNDEAD CORPORATION.
     </li>
   </ol>
+
   Touhou, enka and gothic metal have become my most heard musical styles in recent times. This is my <a href="https://open.spotify.com/playlist/5XNcqnoOZq594yRws85Hm5?si=1z_lrSqsSFayyCmo9Lc86A">favorite playlist</a>, which I constantly update with new songs that I discover during my coding and gaming sessions, including those from the list above.
 </details>
 
