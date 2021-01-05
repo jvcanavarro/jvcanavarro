@@ -15,7 +15,8 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
+You can find my finished and in-development projects here or at my [Gitlab](http://https://gitlab.com/jvcanavarro), I’m always looking for people to work with!
 
 <details>
   <br><summary><b>Favorite Songs</b></summary>
