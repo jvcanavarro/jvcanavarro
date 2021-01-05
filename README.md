@@ -10,8 +10,12 @@ I am a CS undergraduate student and research fellow at the Federal University of
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro) 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=jvcanavarro&redirect=true)
 -->
-#### Playing Now
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" height="100" />](https://open.spotify.com/user/jvcanavarro)
+
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" height="100" />](https://open.spotify.com/user/jvcanavarro) -->
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <details>
   <br><summary><b>Favorite Songs</b></summary>
@@ -19,9 +23,9 @@ I am a CS undergraduate student and research fellow at the Federal University of
 <!--   <img src="/playlist.png" align="right" width="250" height="70"> -->
 <!--   <img src="https://images6.fanpop.com/image/photos/38500000/Yui-Hirasawa-k-on-38512307-500-281.gif" align="right" width="250" height="100"> -->
 
-<!--  <a href = "https://open.spotify.com/user/jvcanavarro">
+  <a href = "https://open.spotify.com/user/jvcanavarro">
     <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" align="right" width="350">
-  </a> -->
+  </a>
   
   <ol>
     <li>
