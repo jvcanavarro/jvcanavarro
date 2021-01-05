@@ -2,9 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
 
 ### Bio 
-<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" height="170">
+<img src="https://pa1.narvii.com/6375/108698ccfb08b4ec4fbb116ac31aa254375a915c_00.gif" align="right" height="160">
 <li>
-I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>.
+I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>. You can find my finished and in-development projects here or at my <a href="http://https://gitlab.com/jvcanavarro">Gitlab</a>, I’m always looking for people to work with!
 </li>
 
 <!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cana's Spotify Playing" width="350" />](https://open.spotify.com/user/jvcanavarro) 
@@ -15,7 +15,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 <!-- <p>&nbsp;</p> -->
 
-You can find my finished and in-development projects here or at my [Gitlab](http://https://gitlab.com/jvcanavarro), I’m always looking for people to work with!
+
 
 <details>
   <br><summary><b>Favorite Songs</b></summary>
