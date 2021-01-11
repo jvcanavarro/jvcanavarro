@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
 
 ### Bio 
-<img src="https://i.gifer.com/DpSr.gif" align="right" height="160">
+<img src="./aot.gif" align="right" height="160">
 <li>
 I am a CS undergraduate student and research fellow at the Federal University of Pará. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>. At last, all my finished and in-development projects can be found here or at my <a href="http://https://gitlab.com/jvcanavarro">Gitlab</a>, I’m always looking for people to work with.
 </li>
