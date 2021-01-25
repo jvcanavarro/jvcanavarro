@@ -35,7 +35,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
       <a href="https://open.spotify.com/track/6ANDCR3T6h2MeoRmCCwJ6d?si=vhomk0ArSt29Qs1ELNJ2gg">DESTINY</a> by GALNERYUS.
     </li>
     <li>
-      <a href="https://open.spotify.com/track/0jXK4Xy4LAEKFgRiTr3M7w?si=PcjbxFDESqCVC0-k-jjUWw">HUNTING FOR YOUR DREAM</a> by GALNERYUS.
+      <a href="https://open.spotify.com/track/62CbuWCUyrgynQAw7R5UQc?si=nY-rqkr9SCiXpX--JANeNA">Struggle for the Freedom Flag</a> by GALNERYUS.
     </li>
     <li>
       <a href="https://open.spotify.com/track/3tm73rjzn5SnGH5mHqLkSA?si=GuUzQxq-TmK_imehkyweHA">邪神の婚礼、儀は愛と知る</a> by Imperial Circus Dead Decadence.
@@ -51,7 +51,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
     </li>
   </ol>
 
-  Touhou, enka and gothic metal have become my most heard musical styles in recent times. This is my <a href="https://open.spotify.com/playlist/5XNcqnoOZq594yRws85Hm5?si=1z_lrSqsSFayyCmo9Lc86A">favorite playlist</a>, which I constantly update with new songs that I discover during my coding and gaming sessions, including those from the list above.
+  Touhou, power, enka and gothic metal have become my most heard musical styles in recent times. This is my <a href="https://open.spotify.com/playlist/5XNcqnoOZq594yRws85Hm5?si=1z_lrSqsSFayyCmo9Lc86A">favorite playlist</a>, which I constantly update with new songs that I discover during my coding and gaming sessions, including those from the list above.
 </details>
 
 ### Overview
