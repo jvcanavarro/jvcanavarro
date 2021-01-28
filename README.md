@@ -58,7 +58,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Early** 
 
 ```text
 🌞 Morning    59 commits     ██████░░░░░░░░░░░░░░░░░░░   23.89% 
