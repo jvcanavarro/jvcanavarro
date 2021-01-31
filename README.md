@@ -1,6 +1,7 @@
 <h1 align="start">𝔍𝔬𝔞𝔬 ℭ𝔞𝔫𝔞𝔳𝔞𝔯𝔯𝔬</h1>
 <img src="https://komarev.com/ghpvc/?username=jvcanavarro" align="right">
 
+
 ### Bio 
 <img src="./aot.gif" align="right" height="160">
 <li>
