@@ -45,7 +45,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
       <a href="https://open.spotify.com/track/2N3PQZZ2jS8QeiBw8ywTrO?si=qPG-oixOSQGT8u0sWaai7Q">Phantom Blood</a> by Unlucky Morpheus.
     </li>
     <li>
-      <a href="https://open.spotify.com/track/6qtRt9VdC2S8w5aFin1Vbe?si=SxuCyvDuTmO8EZp_T-Ztbw">FInal Light</a> by Angra.
+      <a href="https://open.spotify.com/track/6qtRt9VdC2S8w5aFin1Vbe?si=SxuCyvDuTmO8EZp_T-Ztbw">Final Light</a> by Angra.
     </li>
     <li>
       <a href="https://open.spotify.com/track/2fOHzYoJPPnuyxsdYBOf8H?si=HEEz_cweRHmf7Vt2Wmxc_A">Through Your Optic</a> by UNDEAD CORPORATION.
