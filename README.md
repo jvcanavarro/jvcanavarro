@@ -109,7 +109,7 @@ threejs-light-tutorial   34 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <details>
-  <summary><b>More Github Stats</b></summary>
+  <summary><b>More</b></summary>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jvcanavarro&show_icons=true&line_height=21&theme=default&hide_border=true" alt="Cana's Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcanavarro&theme=default&line_height=27&layout=compact&hide_border=true&hide=PostScript,PHP,HTML,Jupyter%20Notebook,Lua&langs_count=10" />
