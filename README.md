@@ -36,6 +36,9 @@ I am a CS undergraduate student and research fellow at the Federal University of
       <a href="https://open.spotify.com/track/6ANDCR3T6h2MeoRmCCwJ6d?si=vhomk0ArSt29Qs1ELNJ2gg">DESTINY</a> by GALNERYUS.
     </li>
     <li>
+      <a href="https://open.spotify.com/track/35Yq5aVZCHTMznrqd8yOvO?si=7j-suIfWSneIVTH49pLU1w">Faith & Decision</a> by Versailles
+    </li>
+    <li>
       <a href="https://open.spotify.com/track/62CbuWCUyrgynQAw7R5UQc?si=nY-rqkr9SCiXpX--JANeNA">Struggle for the Freedom Flag</a> by GALNERYUS.
     </li>
     <li>
