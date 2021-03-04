@@ -55,7 +55,7 @@ I am a CS undergraduate student and research fellow at the Federal University of
     </li>
   </ol>
 
-  Touhou, power, enka and gothic metal have become my most heard musical styles in recent times. This is my <a href="https://open.spotify.com/playlist/5XNcqnoOZq594yRws85Hm5?si=1z_lrSqsSFayyCmo9Lc86A">favorite playlist</a>, which I constantly update with new songs that I discover during my coding and gaming sessions, including those from the list above.
+  Touhou, power, enka and gothic metal have become my most heard musical styles in recent times.<a href="https://open.spotify.com/playlist/5XNcqnoOZq594yRws85Hm5?si=1z_lrSqsSFayyCmo9Lc86A">This</a> is my favorite playlist, which I constantly update with new songs that I discover during my coding and gaming sessions, including those from the list above.
 </details>
 
 ### Overview
