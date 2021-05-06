@@ -30,6 +30,9 @@ I am a CS undergraduate student and research fellow at the Federal University of
   
   <ol>
     <li>
+      <a href="https://open.spotify.com/track/3a33k1SDAZtL9M5SMKLKST?si=43c603daf58b446c">HOLY WAR</a> by Lovebites.
+    </li>
+    <li>
       <a href="https://open.spotify.com/track/4aTXBrfZCq46Si5xiJHA6H?si=TmXfL7HSSAiI-V1U5TZYJg">組曲「義経」~悪忌判官</a> by ONMYO-ZA.
     </li>
     <li>
@@ -43,9 +46,6 @@ I am a CS undergraduate student and research fellow at the Federal University of
     </li>
     <li>
       <a href="https://open.spotify.com/track/3tm73rjzn5SnGH5mHqLkSA?si=GuUzQxq-TmK_imehkyweHA">邪神の婚礼、儀は愛と知る</a> by Imperial Circus Dead Decadence.
-    </li>
-    <li>
-      <a href="https://open.spotify.com/track/2N3PQZZ2jS8QeiBw8ywTrO?si=qPG-oixOSQGT8u0sWaai7Q">Phantom Blood</a> by Unlucky Morpheus.
     </li>
 <!--     <li>
       <a href="https://open.spotify.com/track/6qtRt9VdC2S8w5aFin1Vbe?si=SxuCyvDuTmO8EZp_T-Ztbw">Final Light</a> by Angra.
