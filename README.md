@@ -64,8 +64,6 @@ Hi, I am a <strike>CS undergraduate student and research fellow at the Federal U
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-656%20hrs%2014%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -107,7 +105,7 @@ Unknown Project          4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/04/2022 02:40:53 UTC
+ Last Updated on 24/04/2022 02:37:25 UTC
 <!--END_SECTION:waka-->
 
 <details>
