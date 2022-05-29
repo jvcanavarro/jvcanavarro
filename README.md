@@ -64,7 +64,7 @@ Hi, I am a <strike>CS undergraduate student and research fellow at the Federal U
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -93,20 +93,19 @@ Sunday       33 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 2 mins        ███████████████████████░░   95.46% 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.54%
+Python                   5 hrs 4 mins        ████████████████████████░   96.24% 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
 
 🔥 Editors: 
 VS Code                  5 hrs 16 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-email-cross-platform-ml-m5 hrs 11 mins       ████████████████████████░   98.48% 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+email-cross-platform-ml-m5 hrs 16 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 28/05/2022 02:48:50 UTC
+ Last Updated on 29/05/2022 03:09:24 UTC
 <!--END_SECTION:waka-->
 
 <details>
