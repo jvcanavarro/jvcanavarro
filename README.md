@@ -70,9 +70,10 @@ email-cross-platform-ml-m54 mins             █████████░░�
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvcanavarro/)](https://www.linkedin.com/in/jvcanavarro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jvcanavarro@gmail.com)](mailto:jvcanavarro@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jvcanavarro)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-success?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jvcanavarro)](https://open.spotify.com/user/jvcanavarro)
+
+<!--[![Spotify Badge](https://img.shields.io/badge/-Spotify-success?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/jvcanavarro)](https://open.spotify.com/user/jvcanavarro)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/jvcanavarro)
-[![Steam Badge](https://img.shields.io/badge/-Steam-lightgrey?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/octjinn/)](https://steamcommunity.com/id/octjinn/)
+[![Steam Badge](https://img.shields.io/badge/-Steam-lightgrey?style=flat&logo=Steam&logoColor=white&link=https://steamcommunity.com/id/octjinn/)](https://steamcommunity.com/id/octjinn/)-->
 
 
 <p>
