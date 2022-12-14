@@ -12,7 +12,7 @@ Hi, my name is João Victor and I am a Machine Learning Developer. I have experi
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-727%20hrs%2045%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -41,19 +41,19 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 54 mins        █████████████████████████   100.0%
+Python                   3 hrs 59 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 59 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-xai-smart-cities         1 hr 12 mins        ███████████████░░░░░░░░░░   63.29% 
-email-cross-platform-ml-m42 mins             █████████░░░░░░░░░░░░░░░░   36.71%
+email-cross-platform-ml-m2 hrs 46 mins       █████████████████░░░░░░░░   69.62% 
+xai-smart-cities         1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   30.38%
 
 ```
 
 
- Last Updated on 13/12/2022 02:28:09 UTC
+ Last Updated on 14/12/2022 02:25:50 UTC
 <!--END_SECTION:waka-->
 
 <details>
