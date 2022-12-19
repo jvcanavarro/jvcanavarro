@@ -12,7 +12,7 @@ Hi, my name is João Victor and I am a Machine Learning Developer. I have experi
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2037%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,7 +53,7 @@ xai-smart-cities         59 mins             ████████░░░�
 ```
 
 
- Last Updated on 18/12/2022 02:13:12 UTC
+ Last Updated on 19/12/2022 02:11:01 UTC
 <!--END_SECTION:waka-->
 
 <details>
