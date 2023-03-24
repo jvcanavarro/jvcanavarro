@@ -12,7 +12,7 @@ Hi, my name is João Victor and I am a Machine Learning Developer. I have experi
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-755%20hrs%2052%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,7 +52,7 @@ Unknown Project          3 mins              ███░░░░░░░░�
 ```
 
 
- Last Updated on 23/03/2023 02:08:19 UTC
+ Last Updated on 24/03/2023 02:09:54 UTC
 <!--END_SECTION:waka-->
 
 <details>
