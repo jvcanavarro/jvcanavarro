@@ -39,18 +39,17 @@ Sunday                   100 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-xai-smart-cities         1 min               ███████████████████░░░░░░   77.40 % 
-Eldorado                 0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/04/2023 02:08:20 UTC
+ Last Updated on 05/04/2023 01:53:40 UTC
 <!--END_SECTION:waka-->
 
 <details>
