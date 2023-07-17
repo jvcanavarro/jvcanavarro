@@ -12,7 +12,7 @@ Hi, my name is João and I'm currently working as a Data Scientist. I have exper
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%205%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -51,7 +51,7 @@ voice-analysis           47 mins             ███████████�
 ```
 
 
- Last Updated on 16/07/2023 02:48:33 UTC
+ Last Updated on 17/07/2023 02:42:18 UTC
 <!--END_SECTION:waka-->
 
 <details>
