@@ -5,7 +5,7 @@
 ### Bio 
 <img src="./aot.gif" align="right" height="160">
 <li>
-Hi, my name is João and I'm currently working as a Data Scientist. I have experience in the fields of bioinformatics, speech synthesis/recognition, computer vision and assistive technologies. In addition, I am also really interested in functional programming, artificial intelligence and data science. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>. At last, all my finished and in-development projects can be found here or at my <a href="https://gitlab.com/jvcanavarro">Gitlab</a>, I’m always looking for people to work with!
+Hi, my name is João and I'm currently working as a Machine Learning Engineer. You can find more technical information about my education and projects in my <a href="https://www.linkedin.com/in/jvcanavarro/">Linkedin</a>. At last, all my finished and in-development projects can be found here or at my <a href="https://gitlab.com/jvcanavarro">Gitlab</a>, I’m always looking for people to work with!
 </li>
 
 ### Overview
