@@ -39,19 +39,17 @@ Sunday                   117 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   44 mins             ███████████████████████░░   90.59 % 
-ActionScript             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-UFMG-playground          48 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/09/2023 01:51:29 UTC
+ Last Updated on 08/09/2023 01:51:50 UTC
 <!--END_SECTION:waka-->
 
 <details>
