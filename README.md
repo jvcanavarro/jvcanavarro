@@ -39,17 +39,18 @@ Sunday                   117 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+greenseer                5 mins              ███████████████████░░░░░░   74.36 % 
+grand-maester            1 min               ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 ```
 
 
- Last Updated on 08/10/2023 01:56:08 UTC
+ Last Updated on 09/10/2023 01:52:51 UTC
 <!--END_SECTION:waka-->
 
 <details>
