@@ -12,7 +12,7 @@ Hi, my name is João and I'm currently working as a Machine Learning Engineer. Y
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%201%20min-blue)
 
 **I'm an Early 🐤** 
 
@@ -55,7 +55,7 @@ sion-mansion             55 mins             ███████░░░░�
 ```
 
 
- Last Updated on 05/02/2024 01:54:31 UTC
+ Last Updated on 06/02/2024 01:50:26 UTC
 <!--END_SECTION:waka-->
 
 <details>
